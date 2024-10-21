@@ -38,16 +38,16 @@
     font-weight: bold;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     #data-inicial {
-        top: 159px;
-        left: 264px;
+        top: 143px;
+        left: 234px;
         font-size: 10px;
     }
 
     #data-vencimento {
-        top: 251px;
-        left: 347px;
+        top: 224px;
+        left: 310px;
     }
 
     .date-field {
