@@ -55,13 +55,13 @@
 @media (min-width: 768px) and (max-width: 1199px) {
     #data-inicial {
         top: 143px;
-        left: 237px;
+        left: 234px;
         font-size: 9px;
         font-weight: 900;
     }
 
     #data-vencimento {
-        top: 230px;
+        top: 225px;
         left: 313px;
         font-size: 18px;
         font-weight: 900;
