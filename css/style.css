@@ -30,11 +30,10 @@
     }
 
     #data-inicial {
-        top: 159px;
-        left: 263px;
-        font-size: 11px;
+        top: 160px;
+        left: 264px;
+        font-size: 10px;
         font-weight: 900;
-        font-family: fantasy;
     }
 
     #data-vencimento {
@@ -42,7 +41,6 @@
         left: 348px;
         font-size: 20px;
         font-weight: 900;
-        font-family: fantasy;
     }
 
     .p-footer {
